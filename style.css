@@ -1,0 +1,9 @@
+th {
+	background-color:#ECECEC;
+}
+td {
+	background-color:grey;
+	width: 24px;
+	padding-left: 10px;
+	color: white;
+}
